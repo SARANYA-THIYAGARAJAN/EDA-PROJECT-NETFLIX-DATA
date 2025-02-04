@@ -25,9 +25,9 @@ Uncover insights about Netflix content, including patterns and trends related to
 - **Programming Languages**: Python
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Environment**: Jupyter Notebook
-
-## Result
-Provided comprehensive insights into Netflix's content library, aiding content strategists and analysts.
+  
+## Result & Conclusion
+The project provided comprehensive insights into Netflix's content library, revealing patterns and trends that can assist content strategists and analysts in making informed decisions.
 
 ## Data Cleaning
 - Identified and handled missing values.
